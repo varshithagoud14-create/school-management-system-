@@ -21,4 +21,3 @@ Cloud-based SMS with modules for admissions, attendance, fees, exams, timetable,
 2. *Mobile-first for parents*: 90% of parents used the app, but only 20% logged into web portal. 
 3. *Start small*: They piloted with attendance + fees first, then added exams/library after 3 months.
 
-Want me to tailor this to a specific school size or focus on DIY vs vendor systems?
